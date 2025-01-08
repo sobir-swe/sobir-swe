@@ -24,11 +24,6 @@
 
 ---
 
-### 🐍 Watch Snake Eating My GitHub Contributions:
-![snake gif](https://github.com/AminovJamshid/AminovJamshid/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ### 📫 Connect with Me:
 <p align="center">
     <a href="mailto:sobirjon.swe@gmail.com">
