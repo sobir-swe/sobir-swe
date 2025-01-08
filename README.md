@@ -8,7 +8,7 @@
 ---
 
 ### ⚒️ Tools and Programs:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,c,mysql,postgresql,linux,bash,git,github,html,css,bootstrap,postman)](https://github.com/sobir-swe)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,c,docker,mysql,postgresql,linux,bash,git,github,html,css,bootstrap,postman)](https://github.com/sobir-swe)
 
 ---
 
