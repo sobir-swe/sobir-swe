@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sobirjon Muhammad Sodiq</h1>
-<h3 align="center">Software Developer from Uzbekistan | Passionate Learner | Technology Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Developer from Uzbekistan | Passionate Learner | Technology Enthusiast | Problem Solver | Avid Reader</h3>
+
 
 ---
 
